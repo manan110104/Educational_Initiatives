@@ -1,4 +1,4 @@
-# 🎯 Design Patterns Showcase - Campus Placement Exercise 1
+# 🎯 Design Patterns Showcase 
 
 ## 📚 Overview
 
@@ -241,10 +241,3 @@ This project demonstrates:
 - **Spontaneity**: Interactive demonstrations that adapt to user choices
 
 ---
-
-**Author**: [Your Name]  
-**Version**: 1.0.0  
-**Java Version**: 17+  
-**Build Tool**: Maven  
-**Logging**: SLF4J + Logback  
-**Patterns**: 6 (Strategy, Observer, Abstract Factory, Builder, Adapter, Decorator)
