@@ -1,0 +1,36 @@
+# Ignore all log files
+*.log
+logs/
+demo/logs/
+
+# Ignore build outputs
+target/
+out/
+build/
+*.class
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore archives and large binaries
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.jar
+*.war
+*.ear
+*.mp4
+*.avi
+*.mov
+*.iso
+*.img
