@@ -1,0 +1,13 @@
+admin
+admin
+add_classroom Math101
+list_classrooms
+add_student S001 Math101
+list_students Math101
+schedule_assignment Math101 Algebra_Homework
+list_assignments Math101
+submit_assignment S001 Math101 Algebra_Homework
+analytics
+history
+undo
+exit

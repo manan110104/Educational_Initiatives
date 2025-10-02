@@ -1,0 +1,6 @@
+admin
+admin
+demo
+8
+0
+exit
